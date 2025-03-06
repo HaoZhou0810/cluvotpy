@@ -21,7 +21,7 @@ This script is based on the [_uvotpy_](https://github.com/PaulKuin/uvotpy), so m
 >
 > _‎swugu0200_ax1080ay1000_dx100dy100_o2_20041120v001_cl.arf_ is the calibrated second order effective area file, please copy it to your caldb folder of _uvotpy_.
 
-Before running the code, please open cluvotpy.py, and change the change the CALDB of uvotpy package at Line 24. Then run
+Before running the code, please open cluvotpy.py, and change the CALDB of uvotpy package at Line 24. Then run
 ```
 python.exe cluvotpy.py
 ```
